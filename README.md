@@ -1,8 +1,8 @@
 ## Olá!! Me chamo Kauê Marinho
 <div>
   <a href="https://github.com/Marinho-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinho-developer&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/marinho-developer/github-readme-stats#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinho-developer&layout=compact&lagns_count=16&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinho-developer&show_icons=true&theme=transparent#gh-dark-mode-only)](https://github.com/marinho-developer/github-readme-stats#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinho-developer&layout=compact&lagns_count=16&theme=transparent"/>
 </div>
 
 
